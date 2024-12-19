@@ -4,4 +4,10 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Userservlet</servlet-name>
+  	<display-name>Userservlet</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.Userservlet</servlet-class>
+  </servlet>
 </web-app>
